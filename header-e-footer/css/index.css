@@ -1,0 +1,48 @@
+body {
+    background-color: #232323;
+    color: white;
+}
+
+#text-t{
+    color: white;
+}
+
+#text {
+    color: #b3b3b3;
+    transition: color 0.5s ease;
+}
+
+#text:hover {
+    color: white;
+}
+
+.container-fluid{
+    background: #232323;
+}
+
+#navbar {
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+} 
+
+.navbar-toggler {
+    background-color: #b3b3b3;
+}
+
+.dropdown-menu.dropdown-menu-dark{
+    background-color:#232323;
+    color: white;
+}
+
+.dropdown-divider{
+    background-color: #b3b3b3;
+}
+
+#cr{
+    color: #b3b3b3;
+}
+
+.footer-links a {
+    color: white;
+}
